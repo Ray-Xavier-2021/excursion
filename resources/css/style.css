@@ -1,0 +1,28 @@
+
+
+body {
+    background-color: #000;
+    color: #fff;
+    font: normal 16px 'Jost', sans-serif;
+    text-align: center;
+}
+
+.wrapper {
+    border: 2px solid red;
+    margin: auto;
+    width: 100%;
+}
+
+a {
+    color: aquamarine;
+    font-size: 1em;
+}
+
+h1 {
+    font-size: 3.125em;    
+}
+
+video {
+    width: 340px;
+    height: 680px;
+}
